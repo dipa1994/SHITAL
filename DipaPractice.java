@@ -6,6 +6,7 @@ public class DipaPractice {
         System.out.println("I am Dipa Prajapati");
         System.out.println("Hello Summer");
         System.out.println("Welcome to Java Programme");
+        System.out.println("DIPS");
 
     }
 
